@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CobaKasir", "CobaKasir\CobaKasir.csproj", "{F1CEDA57-26CA-4F02-90F1-CC1873A2EDCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1CEDA57-26CA-4F02-90F1-CC1873A2EDCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1CEDA57-26CA-4F02-90F1-CC1873A2EDCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1CEDA57-26CA-4F02-90F1-CC1873A2EDCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1CEDA57-26CA-4F02-90F1-CC1873A2EDCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A27A7BB-04F3-457A-87E9-CAC16721F3DD}
+	EndGlobalSection
+EndGlobal
